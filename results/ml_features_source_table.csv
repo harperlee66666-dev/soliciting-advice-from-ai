@@ -1,0 +1,11 @@
+Feature group,Model variable(s),Meaning,Original source file
+Target variable,is_wildchat / platform,Whether the case is from WildChat or Reddit,supervised_ml_outputs/supervised_ml_modeling_dataset.csv
+Core framing features,"decision_delegation; narrative_context; emotional_disclosure; social_embeddedness_llm; communication_oriented_request","Five broad framing features capturing how the advice request is framed",shared_framing_features_dataset.csv / framing_results.xlsx
+Request-style features,"uncertainty_expression; objective_analysis_request; sympathy_support_request; harsh_truth_request; step_by_step_request; template_request; self_evaluation_request","Specific style or orientation of advice requested",shared_framing_features_dataset.csv / framing_results.xlsx
+Factual/personal framing,factual_personal_label,Whether the request is more factual/informational or personal/situated,factual_personal_results_for_dissertation.xlsx
+Personal/situated score,personal_situated_score,Numeric version of factual/personal framing used by the model,factual_personal_results_for_dissertation.xlsx
+Preference articulation,preference_level,Whether and how strongly the advice-seeker expresses preferences/trade-offs/constraints,preference_articulation_results_for_dissertation.xlsx
+Self-disclosure,self_disclosure_depth,Depth of personal/self-disclosure in the request,self_disclosure_vulnerability_results_for_dissertation.xlsx
+Vulnerability marker,vulnerability_marker_present,Whether vulnerability or intimate disclosure markers are present,self_disclosure_vulnerability_results_for_dissertation.xlsx
+Advice domain,domain,Topic/category of the advice request,dissertation_general_results.xlsx / source coding pipeline
+Message length,log_word_count,Log-transformed word count of the initial advice request,supervised_ml_outputs/supervised_ml_modeling_dataset.csv

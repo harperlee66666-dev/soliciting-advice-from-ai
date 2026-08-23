@@ -1,0 +1,4 @@
+Feature set,Accuracy,Balanced accuracy,ROC-AUC,WildChat precision,WildChat recall,WildChat F1
+Full model,0.886,0.879,0.973,0.597,0.87,0.708
+No-length model,0.855,0.852,0.953,0.527,0.848,0.65
+Framing-only model,0.872,0.845,0.945,0.569,0.804,0.667

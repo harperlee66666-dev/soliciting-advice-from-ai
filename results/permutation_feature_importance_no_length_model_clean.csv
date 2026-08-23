@@ -1,0 +1,19 @@
+feature,importance_mean,importance_sd,feature_pretty
+narrative_context,0.047787479211214054,0.009383265131615843,Narrative context
+domain,0.008722380612972177,0.015027528119210565,Advice domain
+personal_situated_score,0.005906985032074108,0.005538140504056038,Personal/situated score
+step_by_step_request,0.004891304347826075,0.00867554456075399,Step-by-step request
+sympathy_support_request,0.003005464480874313,0.007648670548824219,Sympathy/support request
+self_disclosure_depth,0.0016155856497980384,0.013464161293457776,Self-disclosure depth
+emotional_disclosure,0.0007691850795913428,0.010060941806065244,Emotional disclosure
+harsh_truth_request,0.0003831076265146116,0.0029033742008569745,Harsh truth request
+communication_oriented_request,-0.00010394392967446967,0.00548571664354742,Communication-oriented request
+preference_level,-0.0003088619624613931,0.00913818287379304,Preference articulation
+self_evaluation_request,-0.0008671893561415993,0.0026656009146435434,Self-evaluation request
+objective_analysis_request,-0.0010245901639344024,0.0013746319533810259,Objective analysis request
+social_embeddedness_llm,-0.0010928961748633633,0.0015635960576857453,Social embeddedness
+vulnerability_marker_present,-0.0013631503920170688,0.007205933340205804,Vulnerability marker
+template_request,-0.0013690900451413302,0.005748811802729914,Template/message request
+uncertainty_expression,-0.0029015205511998135,0.01721323900881574,Uncertainty expression
+factual_personal_label,-0.005918864338322619,0.009369358495632528,Factual/personal label
+decision_delegation,-0.008799596103587558,0.004968299714919916,Decision delegation

@@ -1,0 +1,2 @@
+best_model,accuracy,balanced_accuracy,roc_auc,wildchat_precision,wildchat_recall,wildchat_f1
+Linear classifier baseline,0.8862068965517241,0.8794547398431931,0.9730042765502495,0.5970149253731343,0.8695652173913043,0.7079646017699115
