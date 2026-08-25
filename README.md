@@ -1,6 +1,6 @@
 # Soliciting Advice from AI
 
-This repository contains the code, coded data and analysis outputs for the dissertation *Soliciting Advice from AI: Comparing Advice Requests in Reddit and WildChat*.
+This repository contains the code, coded data and analysis outputs for the dissertation *Soliciting Advice from AI: Comparing Advice Requests from Reddit and WildChat*.
 
 ## Repository structure
 
